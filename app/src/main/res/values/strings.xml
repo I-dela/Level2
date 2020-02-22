@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Places of Interest</string>
+    <string name="namePlace">%d</string>
 </resources>
