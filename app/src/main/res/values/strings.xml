@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Swipe Quiz Kotlin</string>
+    <string name="titleQuiz">Quiz Instructions</string>
+    <string name="question">questions</string>
 </resources>
